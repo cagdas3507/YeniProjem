@@ -17,7 +17,7 @@ import PropTypes from 'prop-types'
 }
 
 footerr.defaultProps={
-    Downtitle:"Bilgi Çekilemedi."
+    Downtitle:"Bilgi Çekilemedi"
 }
 footerr.prototype ={
     Downtitle:PropTypes.string.isRequired
