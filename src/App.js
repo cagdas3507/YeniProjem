@@ -10,7 +10,7 @@ function App() {
       <navbar />
      
 
-      <h4> App Component</h4>
+      <h4>Çağdaş</h4>
       <User
       name="ÇAğdaş"
       salary="3500"

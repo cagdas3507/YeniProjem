@@ -8,7 +8,7 @@ import PropTypes from 'prop-types'
         <div>
         <ul>
             <li><h1>{title}</h1></li>
-            <li><h1>dasdsa</h1></li>
+            <li><h1>{title}</h1></li>
         </ul>
             
         </div>
