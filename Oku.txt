@@ -1,0 +1,1 @@
+footer ve navbar değiştirildi.
