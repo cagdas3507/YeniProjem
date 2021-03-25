@@ -24,6 +24,11 @@ function App() {
       salary="35002"
       departmant="Elektrik"
       />
+        <User
+      name="aslı"
+      salary="35003"
+      departmant="IT"
+      />
       <funtions/>
     </div>
 
